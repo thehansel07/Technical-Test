@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\bin\Debug\net5.0\WebApplication.Core.deps.json
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\bin\Debug\net5.0\WebApplication.Core.dll
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\bin\Debug\net5.0\ref\WebApplication.Core.dll
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\bin\Debug\net5.0\WebApplication.Core.pdb
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.dll
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\ref\WebApplication.Core.dll
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.pdb

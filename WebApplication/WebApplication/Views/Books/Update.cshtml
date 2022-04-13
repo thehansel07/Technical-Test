@@ -1,0 +1,82 @@
+﻿
+
+@model WebApplication.Core.Model.Books
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<h2>Detalle de los Libros</h2>
+
+<form method="post" asp-action="Update">
+    <h4>Books</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Titulo
+        </dt>
+
+        <dd>
+            <input asp-for="@Model.Title" />
+        </dd>
+
+        <dt>
+            Descripcion
+        </dt>
+
+        <dd>
+            <input asp-for="@Model.Description)" />
+        </dd>
+
+        <dt>
+            Pagina
+        </dt>
+
+        <dd>
+            <input asp-for="@Model.PageCount)" />
+        </dd>
+
+        <dt>
+            Conocido
+        </dt>
+
+        <dd>
+            <input asp-for=" @Model.Excerpt)" />
+        </dd>
+
+        <dt>
+            Fecha
+        </dt>
+
+        <dd>
+            <input asp-for="@Model.PublishDate)" />
+        </dd>
+
+    </dl>
+    <button type="submit" class="btnActualizar btn btn-primary" asp-controller="Books" action="Update">Actualizar</button>
+</form>
+
+
+<script src="~/js/jquery-3.4.1.min.js"></script>
+<script>
+    $("#btnActualizar").click("click", function () {
+        alert("Registro");
+    });
+</script>
+
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/GetAll.js" asp-append-version="true"></script>
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>
+<script src="~/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/sweetalert2.js"></script>
