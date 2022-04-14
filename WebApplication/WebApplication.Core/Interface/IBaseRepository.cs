@@ -13,6 +13,7 @@ namespace WebApplication.Core.Interface
         Task<IEnumerable<T>>GetByIdAsync(int id);
         Task<T> DeleteAsync(int id);
         Task<T> AddAsync(T entity);
+        Task<T> Updatesync(T entity);
         Task<T> FilterAsync(Expression<Func<T, bool>> expression);
 
     }

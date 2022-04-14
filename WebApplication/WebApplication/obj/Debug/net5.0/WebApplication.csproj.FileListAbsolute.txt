@@ -119,3 +119,4 @@ C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication\bin\Debug\net5
 C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication\bin\Debug\net5.0\ref\WebApplication.dll
 C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
 C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Books\Update.cshtml.g.cs

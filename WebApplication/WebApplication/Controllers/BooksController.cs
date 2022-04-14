@@ -107,7 +107,7 @@ namespace WebApplication.Controllers
 
             return View();
 
-
+             
 
         }
 
@@ -139,7 +139,7 @@ namespace WebApplication.Controllers
                     TempData["success"] = "This row was Delete!";
                     ViewBag.Message = "Plan Already Exists";
 
-                    return RedirectToAction("Delete");
+                    return RedirectToAction("Index");
 
                 }
 

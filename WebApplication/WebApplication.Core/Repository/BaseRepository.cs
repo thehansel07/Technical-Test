@@ -58,7 +58,7 @@ namespace WebApplication.Core.Repository
         {
             throw new NotImplementedException();
         }
-
+         
         public async Task<IEnumerable<T>> GetAllAsync()
         {
 
