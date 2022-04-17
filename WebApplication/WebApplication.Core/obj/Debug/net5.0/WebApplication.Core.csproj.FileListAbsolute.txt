@@ -9,3 +9,4 @@ C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug
 C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.dll
 C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\ref\WebApplication.Core.dll
 C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.pdb
+C:\Users\MSI\Desktop\Technical Test\WebApplication\WebApplication.Core\obj\Debug\net5.0\WebApplication.Core.csproj.AssemblyReference.cache
